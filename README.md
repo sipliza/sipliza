@@ -4,8 +4,4 @@
 - How to reach me:
 - 
           - Telegram @sip_liza
-          - mail: sipliza@yandex.ru 
-<!---
-sipliza/sipliza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+          - mail: sipliza@yandex.ru
