@@ -4,4 +4,3 @@
 - How to reach me:
 - 
           - Telegram @sip_liza
-          - mail: sipliza@yandex.ru
